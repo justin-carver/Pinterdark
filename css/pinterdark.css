@@ -1,0 +1,62 @@
+html {
+    background-color: #333 !important;
+    color: #FEFEFE !important;
+}
+
+textarea {
+    color: #FEFEFE !important;
+}
+
+.a_A {
+    background-color: #555 !important;
+}
+
+.a_A:hover, .a_A:focus {
+    background-color: #222 !important;
+}
+
+.adn {
+    color: #FEFEFE !important
+}
+
+.App .footerButtons button > div {
+    background-color: #555 !important;
+}
+
+.CKL {
+    color: #333 !important;
+}
+
+.fev {
+    background-color: #555 !important;
+}
+
+.fev ::placeholder {
+    color: #FEFEFE !important;
+}
+
+.Oii, html:not([dir="rtl"]) .zDA, html[dir="rtl"] .PON {
+    color: #FEFEFE !important;
+}
+
+.pBj {
+    color: #FEFEFE !important;
+}
+
+.qJc, .qDf, .jzS {
+    background-color: #333 !important;
+    color: #FEFEFE !important;
+}
+
+.site {
+    color: #FEFEFE !important;
+}
+
+.ygj {
+    background-color: #333 !important;
+    border-color: #555 !important;
+}
+
+.yTZ {
+    color: #FEFEFE !important;
+}

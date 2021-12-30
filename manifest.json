@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Pinterdark",
+    "version": "1.0",
+    "description": "A simple Firefox extension that allows custom CSS to be injected into Pinterest to allow for an accessible yet modern dark theme on Pinterest domains.",
+    "icons": {
+        "48": "icons/pinterdark-48_x_48.png",
+        "128": "icons/pinterdark-128_x_128.png"
+    }, 
+    "content_scripts": [
+        {
+            "matches": ["*://www.pinterest.com/*"],
+            "js": ["pinterdark.js"]
+        }
+    ]  
+}
