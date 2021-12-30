@@ -5,8 +5,11 @@
 <img src="https://i.imgur.com/mZUZUDN.png" alt="Pinterest Logo Black" width="200"/>
 
 Author: [Justin Carver](https://justincarver.work)
+
 Published on: Firefox Add-on Store
+
 Stack: Pure JS / CSS
+
 License: GPL-3
 
 
